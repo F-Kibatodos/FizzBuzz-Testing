@@ -8,7 +8,6 @@ function fizzBuzz (num) {
   }
   if (str != '') {
     return str
-  } else {
-    return num
   }
+  return num
 }
